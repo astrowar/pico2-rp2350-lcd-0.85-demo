@@ -1,0 +1,3 @@
+[submodule "lib/displaylib_16bit_PICO"]
+	path = lib/displaylib_16bit_PICO
+	url = https://github.com/gavinlyonsrepo/displaylib_16bit_PICO.git
